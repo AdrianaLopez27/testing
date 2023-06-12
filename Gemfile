@@ -70,3 +70,6 @@ group :test do
   gem "selenium-webdriver"
   gem "webdrivers"
 end
+
+gem "react-rails", "~> 2.7"
+gem "webpacker", "~> 5.4"
